@@ -1,5 +1,5 @@
 theme : moon
 theme-override : assets/cssmoon.css
 highlight : hybrid
-transition : concave
+transition : slide 
 footnote :  "©班"
