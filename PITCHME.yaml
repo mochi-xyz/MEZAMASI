@@ -1,5 +1,5 @@
 theme : sky
 theme-override : assets/cssmoon.css
-highlight : hybrid
+highlight : tomorrow
 transition : convex
 footnote :  "©班"
