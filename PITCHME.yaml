@@ -1,4 +1,4 @@
-theme : navy
+theme : moon
 theme-override : assets/cssmoon.css
 highlight : monokai
 transition : convex
