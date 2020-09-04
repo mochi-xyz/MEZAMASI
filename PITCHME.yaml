@@ -1,4 +1,4 @@
-theme : Montserrat
+theme : sky
 theme-override : assets/cssmoon.css
 highlight : hybrid
 transition : convex
