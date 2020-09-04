@@ -1,6 +1,5 @@
 theme : beige
 theme-override : assets/css/PITCHME.css
 highlight : hybrid
-logo : assets/image/logo.png
-transition : convex
+transition : fade
 footnote :  "© 2018 kakisoft"
