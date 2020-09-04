@@ -1,5 +1,5 @@
 theme : moon
 theme-override : assets/cssmoon.css
 highlight : monokai
-transition : slide 
+transition : convex
 footnote :  "©班"
