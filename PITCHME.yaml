@@ -1,5 +1,5 @@
 theme : moon
 theme-override : assets/cssmoon.css
-highlight : monokai
+highlight : hybrid
 transition : fade
 footnote :  "©班"
