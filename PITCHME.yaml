@@ -1,5 +1,5 @@
-theme : beige
+theme : sky
 theme-override : assets/css/PITCHME.css
-highlight : hybrid
+highlight : monokai
 transition : fade
-footnote :  "© 2018 kakisoft"
+footnote :  "©班"
