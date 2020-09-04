@@ -1,1 +1,6 @@
-transition : slide and zoom
+theme : beige
+theme-override : assets/css/PITCHME.css
+highlight : hybrid
+logo : assets/image/logo.png
+transition : convex
+footnote :  "© 2018 kakisoft"
