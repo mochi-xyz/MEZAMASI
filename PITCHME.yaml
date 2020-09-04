@@ -1,5 +1,5 @@
-theme : sky
-theme-override : assets/css/PITCHME.css
+theme : moon
+theme-override : assets/cssmoon.css
 highlight : monokai
 transition : fade
 footnote :  "©班"
