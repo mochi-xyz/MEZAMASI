@@ -1,4 +1,4 @@
-theme : template
+theme : simple
 theme-override : assets/cssmoon.css
 highlight : tomorrow
 transition : convex
