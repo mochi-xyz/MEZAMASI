@@ -1,4 +1,4 @@
-theme : beige
+theme : night
 theme-override : assets/cssmoon.css
 highlight : tomorrow
 transition : convex
